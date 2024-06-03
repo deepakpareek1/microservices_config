@@ -6,7 +6,7 @@ accounts:
  message: "Welcome to entailment accounts related PROD APIs"
  contactDetails:
   name: "Deepak Pareek Product Owner"
-  email: "dpareek@entailment.com"
+  email: "{cipher}bd08fa8e4c7be400c49ea3881f9dd372c0d764edc3ce3f8f9a68d02f97951ff228c7840da0c93deb6c64ebb5388ee2c0"
  onCallSupport:
   -(111)5555-3456
   -(999)6666-3234
