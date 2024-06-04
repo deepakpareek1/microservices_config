@@ -3,7 +3,7 @@ build:
  version: "1.0"
 
 loans:
- message: "Welcome to entailment loans related PROD APIs"
+ message: "Welcome to entailment loans related PRODUCTION APIs"
  contactDetails:
   name: "Deepak Pareek Product Owner"
   email: "dpareek@entailment.com"
