@@ -3,7 +3,7 @@ build:
  version: "1.0"
 
 cards:
- message: "Welcome to entailment cards related PRODUCTION APIs"
+ message: "Welcome to entailment cards related PRODUCTION-deepak APIs"
  contactDetails:
   name: "Deepak Pareek Product Owner"
   email: "dpareek@entailment.com"
