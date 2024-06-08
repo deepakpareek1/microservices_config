@@ -3,7 +3,7 @@ build:
  version: "3.0"
 
 cards:
- message: "Welcome to entailment cards related APIs"
+ message: "Welcome to entailment cards doxker related APIs"
  contactDetails:
   name: "Deepak Pareek"
   email: "dpareek@entailment.com"
